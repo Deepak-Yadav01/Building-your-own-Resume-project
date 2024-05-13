@@ -1,0 +1,103 @@
+.education{
+    border: 2px solid rgb(25, 228, 150);
+border-radius: 5px;
+padding: 20px;
+background-color: aquamarine;
+}
+
+  .education .my-education h2{
+     text-align: center;
+     text-decoration-line:underline;
+     text-shadow: 0 0 3px #ff0000;
+   }
+
+.Experties{
+border: 2px solid rgb(255, 136, 0);
+border-radius: 5px; 
+background-color: aquamarine;
+}
+
+.my-experties h2{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 0 0 3px #ff0000;
+    }
+    
+
+
+    .profile-top{
+    background-color: rgb(121, 197, 197);
+    border-radius: 5px;
+    border: solid 3px salmon;
+}
+
+.profile-image img{
+   width: 200px; 
+   height: 200px;
+   border-radius: 50%;
+   text-align:center;
+}
+
+.profile-image{
+border-radius: 100%;
+width: 200px;
+height: auto;
+}
+
+.projects-name{
+background-color: aquamarine;
+border-style: solid;
+border-radius: 5px;
+}
+.projects-name h2{
+text-align: center;
+text-shadow:0 0 3px #ff0000;
+text-decoration: underline;
+}
+.projects-name h4{
+color: blueviolet;
+}
+
+
+.contact-via{
+   background-color: aquamarine;
+   border-radius: 5px; 
+   border-style: solid;
+   border-color: rgb(34, 172, 218);
+}
+
+.contact-via h2{
+    text-align: center;
+    text-shadow:0 0 3px #ff0000;
+    text-decoration: underline;
+    background-color: aquamarine;
+}
+
+
+.social-media{
+    background-color: aquamarine;
+    border-radius: 5px;
+    border: solid greenyellow 3px;
+}
+.social-media .title{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow:0 0 3px #ff0000;
+}
+
+
+.language{
+   background-color: aquamarine;
+   border-radius: 5px;
+   border-style: solid;
+   border-color: blueviolet;
+}
+.language h2{
+text-align: center;
+text-decoration: underline;
+text-shadow: 0 0 3px #ff0000;
+}
+
+.language .known-language{
+color: blueviolet;
+}
