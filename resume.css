@@ -26,7 +26,7 @@ background-color: aquamarine;
 
 
     .profile-top{
-    background-color: rgb(121, 197, 197);
+        background: linear-gradient(#e66465, #9198e5);
     border-radius: 5px;
     border: solid 3px salmon;
 }
